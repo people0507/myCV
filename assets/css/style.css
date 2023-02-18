@@ -9,7 +9,7 @@ html{
 .part1{
     margin-top: 50px;
     color: white;
-    background-image: url(./img/download.png);
+    background:url(/myCV/assets/img/back_ground.png);
     background-size: cover;
 }
 
